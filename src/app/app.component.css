@@ -1,0 +1,21 @@
+button {
+  position: absolute !important;
+  bottom: 30px;
+  right: 30px;
+  border-radius: 3px;
+  background-color: blue;
+  color: #fff;
+  height: 36px;
+  padding: 0 16px;
+}
+#contentToConvert {
+  padding: 24px;
+  width: 794px;
+  height: 1123px;
+}
+#invoice {
+  width: 210mm;
+  height: 297mm;
+  box-sizing: border-box;
+  padding: 20mm;
+}
